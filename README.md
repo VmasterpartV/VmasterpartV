@@ -1,6 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-I'm Iván a front-end developer from Mexico who is passionate about cloud systems and video games.
+### I'm Iván a front-end developer from Mexico who is passionate about cloud systems and video games. 
 I am currently working as a freelance web developer in a small team, creating everything from business management systems to mobile apps. 
 
 <p align="center">
@@ -23,7 +23,7 @@ I am currently working as a freelance web developer in a small team, creating ev
 <table><tr>
   <td>
     <h3> Fommy (a mobile videogame) 📱  </h3>
-    <p>Fommy is a video game totally designed for children, the game focuses on the ordering of figures by colors, the project was carried out in Unity, I was in charge of the programming and visual design.</p>
+    <p>Fommy is a video game totally designed for children, the game focuses on the ordering of figures by colors, the project was developed in Unity, I was in charge of the programming and visual design.</p>
     <a href="https://play.google.com/store/apps/details?id=com.MasterpartGames.Fommy">:arrow_forward: See more</a>
   </td>
   <td>
