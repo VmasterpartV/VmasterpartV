@@ -8,6 +8,9 @@
   <br>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VmasterpartV)](https://github.com/VmasterpartV/github-readme-stats)
+
+
 <!--
 **VmasterpartV/VmasterpartV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
