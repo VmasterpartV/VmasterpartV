@@ -3,7 +3,7 @@
 ### I'm Iván a front-end developer from Mexico who is passionate about cloud systems and video games. 
 I am currently working as a freelance web developer in a small team, creating everything from business management systems to mobile apps. 
 
-You can look my portfolio <a href="https://vmasterpartv.github.io/ivan_mota/">here</a>. 
+You can look my portfolio <a href="https://vmasterpartv.github.io/">here</a>. 
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=VmasterpartV&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
