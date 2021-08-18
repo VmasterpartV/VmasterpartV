@@ -1,7 +1,8 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
 ### I'm Iván a front-end developer from Mexico who is passionate about cloud systems and video games. 
-I am currently working as a freelance web developer in a small team, creating everything from business management systems to mobile apps. 
+I am currently working as a freelance web developer in a small team, creating everything from business management systems to mobile apps 
+and in my personal videogames projects.
 
 You can look my portfolio <a href="https://vmasterpartv.github.io/">here</a>. 
 
