@@ -41,7 +41,7 @@ You can look my portfolio <a href="https://vmasterpartv.github.io/">here</a>.
     <a href="https://www.aaaimx.org/ventanilla-digital/#/">:arrow_forward: See more</a>
   </td>
   <td>
-    <img src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.TX-4KipJMfm7GFt2i1Zq_QHaIF%26pid%3DApi&f=1&ipt=146750556a739dba7d8506a48bbff8df0a6b2d3a879a21f3040a469554a9786e&ipo=images](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-GeYyJU30T3o%2FVAe_cS5eSbI%2FAAAAAAAAAhE%2FmfKWRbMNdww%2Fs1600%2Flogo.png&f=1&nofb=1&ipt=6da31e805b32d0738ee162e34123a1283b12745271239004db76a23327d4926c&ipo=images)" alt="Banner" width="300px">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.TX-4KipJMfm7GFt2i1Zq_QHaIF%26pid%3DApi&f=1&ipt=5b6338fcd96289922b1596268d1eb488b5cb904b232abc7242f14f01614842a0&ipo=images" alt="Banner" width="300px">
   </td>
 </tr>
 </table>
