@@ -41,7 +41,7 @@ You can look my portfolio <a href="https://vmasterpartv.github.io/">here</a>.
     <a href="https://www.aaaimx.org/ventanilla-digital/#/">:arrow_forward: See more</a>
   </td>
   <td>
-    <img src="https://www.itmerida.mx/imagenes/tec.png" alt="Banner" width="300px">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.TX-4KipJMfm7GFt2i1Zq_QHaIF%26pid%3DApi&f=1&ipt=146750556a739dba7d8506a48bbff8df0a6b2d3a879a21f3040a469554a9786e&ipo=images" alt="Banner" width="300px">
   </td>
 </tr>
 </table>
