@@ -3,8 +3,6 @@
 ### I'm Iván a software engineer from Mexico
 I am a passionate software engineer with a strong focus on cloud systems. As a fullstack developer, I am experienced in working with Vue.js and Django, and enjoy contributing to backend and frontend projects. In addition to my work, I have a big interest in game development. I take pride in creating exceptional cloud platforms that enhance the user experience and make their lives easier.
 
-You can look my portfolio <a href="https://vmasterpartv.github.io/">here</a>. 
-
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=VmasterpartV&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VmasterpartV&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
