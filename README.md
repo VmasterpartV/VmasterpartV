@@ -42,4 +42,3 @@ I am a passionate software engineer with a strong focus on cloud systems. As a f
   </td>
 </tr>
 </table>
-<a href="https://vmasterpartv.github.io">All about me</a>
